@@ -15,8 +15,8 @@ Ensure you have PHP installed on your system. Then, follow these steps to set up
 ### Clone the Repository
 
 ```sh
-git clone <your-github-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/ohnotnow/php_openai_tool_attribute
+cd php_openai_tool_attribute
 ```
 
 ### Dependencies
